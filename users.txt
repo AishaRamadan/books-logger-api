@@ -1,0 +1,41 @@
+(1) register admin (Aisha)
+(2) get users before login
+(3) get users after login
+(4) patch user data
+(5) register 2 users (omar - samy)
+(6) get users (samy login) => unauthorized (only admins)   
+(6) get users (Aisha login) => authorized for admin  
+// delete after adding books   
+    
+    ( Users Model )
+ 
+        ( admin )
+    "userName": "Aisharam11",
+    "email": "Aisharam@gamil.com",
+    "password": "12312314",
+    "firstName": "Aisha",
+    "lastName": "Ramadan",
+    "role": "admin"
+
+        ( user )
+    "userName":"samyAli",
+    "email": "samy@gamil.com",  
+    "password":"123456789",
+    "firstName":"samy",
+    "lastName":"Ali"
+
+    "userName":"_omargad",
+    "email": "omar@gamil.com",
+    "password":"123456789",
+    "firstName":"omar",
+    "lastName":"gad"
+
+    "userName":"asmaa444",
+    "email": "asmaa@gamil.com",
+    "password":"123456789",
+    "firstName":"asmaa",
+    "lastName":"Ahmed"
+
+  
+
+

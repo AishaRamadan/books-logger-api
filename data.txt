@@ -1,0 +1,28 @@
+
+  pass:"12312314"
+
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OTkxMDQ5YzIzNjVmZDhkMWFkYzA2YiIsImVtYWlsIjoiQWlzaGFyYW1AZ2FtaWwuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzU0ODc1NDQ3LCJleHAiOjE3NTUxMzQ2NDd9.0VX4BhJ6PuBZKQQ5YD3OWB7nhilFh2B136I7xvk-xR4",
+  "data": {
+    "_id": "68991049c2365fd8d1adc06b",
+    "userName": "Aisharam11",
+    "email": "Aisharam@gamil.com",
+    "password": "$2b$13$O/TrtlN5FTh0c5dGlZV6gOmjoLXpkylodOBRbDNpsyKPL2IjNe.6u",
+    "firstName": "Aisha",
+    "lastName": "Ramadan",
+    "role": "admin",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OTkxMDQ5YzIzNjVmZDhkMWFkYzA2YiIsImVtYWlsIjoiQWlzaGFyYW1AZ2FtaWwuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzU0ODc1NDQ3LCJleHAiOjE3NTUxMzQ2NDd9.3kTe8qvOIixTy2SrV_P1bOoPv0pucdYKzbONUs5XHtU"
+  }
+ 
+  /**********************/
+  
+
+
+
+
+
+
+
+
+
+

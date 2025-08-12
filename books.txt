@@ -1,0 +1,42 @@
+(1) test login 
+(2) post books (samy)
+(3) post books (omar)
+(4) get books (samy)
+(5) get books (Aisha => admin)
+(6) get book by id (samy)
+(7) get book by id (Aisha => admin)
+(8) patch on book (samy)
+(9) delete book (samy)
+(10) delete user omar (user and posted books deleted)
+
+
+
+( Books Model)
+       
+
+  "title":"atomic habits",
+  "author":"James Clear",
+  "rate":10,
+  "notes":"excellent"
+
+  "title":"The Valley of Fear",
+  "author":"Sherlock Holmes",
+  "rate":10,
+  "notes":"excellent"
+
+       ( omar )
+  "title":"The Hound of the Baskervilles",
+  "author":"Sherlock Holmes",
+  "rate":10,
+  "notes":"excellent"
+
+  "title":"Oliver Twist",
+  "author":"Charles Dickens",
+  "rate":10,
+  "notes":"The most exciting story I have read"
+  
+       ( asmaa )
+  "title":"Radioactive",
+  "author":"marie curie",
+  "rate":10,
+  "notes":"scientific and interesting book"
